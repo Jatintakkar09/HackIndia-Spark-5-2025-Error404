@@ -48,3 +48,4 @@ PRIVATE_KEY=your_wallet_private_key
 ```bash
 npm start
 ```
+# HackIndia-Spark-5-2025-Error404
