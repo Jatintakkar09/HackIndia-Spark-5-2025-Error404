@@ -4,8 +4,8 @@ An AI-powered blockchain agent that can interact with the Abstract Testnet block
 
 ## Features
 
-- AI Assistant powered by [OpenAI's Assistant API](https://platform.openai.com/docs/assistants/overview) with custom personality
-- Direct blockchain interactions through [Viem](https://viem.sh/)
+- Powered by openai Api
+- interaction with blockchain with [Viem](https://viem.sh/)
 - Support for:
   - ERC20 token deployments and interactions
   - Contract reading and writing
@@ -14,21 +14,12 @@ An AI-powered blockchain agent that can interact with the Abstract Testnet block
   - Uniswap V3 pool creation
 
 ## Prerequisites
-
-- Node.js (v18 or higher)
-- TypeScript
 - An OpenAI API key
 - A wallet private key for the agent
 
 ## Getting Started
 
-1. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the repository:
-
-```bash
-git clone https://github.com/jarrodwatts/onchain-agent.git
-
-cd onchain-agent
-```
+1. clone the repository
 
 2. Install dependencies:
 
@@ -48,4 +39,3 @@ PRIVATE_KEY=your_wallet_private_key
 ```bash
 npm start
 ```
-# HackIndia-Spark-5-2025-Error404
